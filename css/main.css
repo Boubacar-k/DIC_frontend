@@ -250,6 +250,14 @@ body {
   box-shadow: 2px 2px 5px rgba(0,0,0,0.4);
   margin-bottom: 20px;
 }
+.menu_pancake{
+  display: block;
+}
+
+.item_pancake{
+  width: 100%;
+}
+
 .menu_item_content {
   width: 45%;
   padding: 10px;
